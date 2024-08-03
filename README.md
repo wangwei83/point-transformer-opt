@@ -1,4 +1,4 @@
-<h1 align="center">Point Transformer</h1> 
+<h1 align="center">Point Transformer opt</h1> 
 
 
 <div align="center">
